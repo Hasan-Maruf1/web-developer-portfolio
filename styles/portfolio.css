@@ -102,7 +102,7 @@ nav a {
 }
 
 /* Main section style */
-.section-titile {
+.section-title {
     color: #181818;
     text-align: center;
     font-size: 35px;
@@ -155,4 +155,12 @@ main {
     font-weight: 600;
     margin-top: 0px;
 
+}
+#what-i-do{
+    padding: 30px 150px;
+}
+/* Skills */
+.skill-container{
+    display: flex;
+    text-align: center;
 }
